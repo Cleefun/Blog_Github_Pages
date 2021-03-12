@@ -1,0 +1,2 @@
+# Blog_Github_Pages
+用于Github Actions自动生成静态网页资源的仓库
